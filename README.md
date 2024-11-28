@@ -1,16 +1,12 @@
-# food_ordering_app
+# Food Ordering App
 
-A new Flutter project.
+## About
+The **Food Ordering App** helps users manage daily food orders and budgets. Users can:
+- Manage food items with associated costs.
+- Set a daily budget and select food items without exceeding it.
+- Save order plans (food items, date, total cost) in a local database.
+- Query order plans by date.
+- Add, update, and delete food items.
 
-## Getting Started
+Built with Flutter and `sqflite`.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
